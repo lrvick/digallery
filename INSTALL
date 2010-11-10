@@ -1,0 +1,15 @@
+REQUIREMENTS:
+
+ * Apache 2+ Web server configured with MultiViews
+
+ * PHP5 with iMagick or GD support.
+
+INSTALLATION:
+
+ 1. Create a folder on your server containing all images you wish to display.
+
+ 2. Edit settings in digallery.php to your liking.
+
+ 3. Place diGallery.php in that folder as index.php
+
+ 4. Open folder in web browser, and enjoy :-)
